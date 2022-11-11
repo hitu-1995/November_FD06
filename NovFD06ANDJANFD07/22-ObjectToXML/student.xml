@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<addr>
+		<area>Ravet</area>
+		<city>Pune</city>
+	</addr>
+	<address>Nigadi</address>
+	<name>ABC</name>
+	<rollno>101</rollno>
+</student>
